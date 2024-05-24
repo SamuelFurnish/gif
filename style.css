@@ -1,0 +1,43 @@
+html {
+    background-color: black;
+}
+
+h1 {
+    font-size: 2.1rem;
+    text-transform: uppercase;
+}
+
+body {
+    padding: 0px;
+    margin: 0px;
+    background-color: black;
+}
+
+img {
+    border: 5px solid white;
+    width: 100%;
+    border-radius: 10px;
+}
+.footer {
+    color: white;
+    display: flex;
+    justify-content: center;
+    height: 300px;
+    margin-top: 300px;
+    width: 100%;
+}
+
+.containeritem {
+    position: relative;
+    min-height: 100vh;
+    min-width: 100vw;
+}
+
+#blockitem {
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 50px;
+    color: white;
+    text-align: center;
+    font-family: 'Libre Baskerville', serif;
+}
